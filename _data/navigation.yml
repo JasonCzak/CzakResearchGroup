@@ -1,0 +1,22 @@
+# Header links, in order.
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Members"
+    url: /members/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Presentations"
+    url: /talks/
+
+  - title: "Photos"
+    url: /photos/
+
+  - title: "Join"
+    url: /join/
